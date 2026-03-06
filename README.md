@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0;
-  <a href="#rocket-main-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#rocket-main-technologies">Technologies</a> &#xa0; &#xa0;
 </p>
 
 ## :dart: About ##
