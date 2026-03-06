@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>Hi, My Name is Ellena</h1>
-  <h3>I'm a Frontend Developer</h3>
+  <h3>Product Builder | Front-End Developer | UI/UX Designer </h3>
 </div>
 
 <p align="center">
