@@ -1,13 +1,14 @@
 
 
 <div align="center">
-  <h1>Hi, My Name is Ellena</h1>
+  Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ellena
+===============================================================================================================================
   <h3>Product Builder | Front-End Developer | UI/UX Designer </h3>
   
-* 🌍  I'm based in Nigeria
-* ✉️  You can contact me at [ellenaokpani@gmail.com](mailto:ellenaokpani@gmail.com)
-* 🧠  I'm currently learning Some New AI Tools
-* 👥  I'm looking to collaborate on Interesting Projects
+🌍  I'm based in Nigeria
+✉️  You can contact me at [ellenaokpani@gmail.com](mailto:ellenaokpani@gmail.com)
+🧠  I'm currently learning Some New AI Tools
+👥  I'm looking to collaborate on Interesting Projects
 </div>
 
 
@@ -20,12 +21,10 @@
 </p>
 
 ## :dart: About ##
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ellena
-===============================================================================================================================
 
 I’m passionate about building digital products that are not just functional, but clear, thoughtful, and enjoyable to use ✨
 My background sits at the intersection of Front-End Development 💻, UI/UX Design 🎨, and Product Management 📦, which allows me to look at products from different angles how they look, how they work, and most importantly, why they exist in the first place.
-Now, I enjoy working across the product development process — from understanding user problems 🔍, designing thoughtful solutions ✍️, to bringing ideas to life on the front end ⚡.
+Now, I enjoy working across the product development process, from understanding user problems 🔍, designing thoughtful solutions ✍️, to bringing ideas to life on the front end ⚡.
 
 I’m someone who appreciates clean tools 🧰, well-structured systems 🧩, and products that solve real problems without unnecessary complexity.
 
