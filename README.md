@@ -2,7 +2,6 @@
 
 <div align="center">
  <h1>Hi👋 My name is Ellena</h1>
-===============================================================================================================================
   <h3>Product Builder | Front-End Developer | UI/UX Designer </h3>
   
 🌍  I'm based in Nigeria
